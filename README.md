@@ -1,10 +1,11 @@
 # Hello, I am A'nyo Bell
+
 {
   "Name": "A'nyo Bell",
-  "School": "Merritt College",
-  "Major": "Computer Engineering",
-  "Interests": ["Machine Learning", "Backend Development", "Cloud Computing"],
-  "Languages": ["Python", "C++", "C", "C#", "Java", "Javascript", "TypeScript", "PHP", "SQL", "HTML", "CSS"],
+  "Building": "jjkd",
+  "Learning": "",
+  "Intrest": "Deep Neural Netwokrs", "", "Cloud Computing"
+  "": ["Python", "C++", "C", "C#", "Java", "Javascript", "TypeScript", "PHP", "SQL", "HTML", "CSS"],
   "Technologies": {
     "Frameworks": ["React.js", "Express.js", "Node.js", "Laravel", "Flask", "Three.js", "Puppeteer"],
     "Databases": ["MySQL", "MongoDB", "Firebase", "Redis"],
@@ -13,6 +14,7 @@
     "Misc": ["Git", "Linux", "Bash"]
   }
 }
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a%E2%80%99nyo-bell-838a0a255/)
