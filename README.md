@@ -1,13 +1,30 @@
 # Hello, I'm A'nyo Bell
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white-https://www.linkedin.com/in/a%E2%80%99nyo-bell-838a0a255/-https://img.shields.io/github/followers/A'nyo?label=follow&style=social)](https://github.com/AnyoBell" /></a>
 
-<h2> Hi, I'm A'nyo Bell! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
- href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+Welcome to my GitHub profile. I'm passionate about software, hardware, and and designing !
 
+## 🚀 About Me
+- 💻 I love solving problems with code and building useful, creative software.
+- 📚 I enjoy learning new technologies and keeping up with the latest trends.
+- 🌍 I'm enthusiastic about open source and collaborative projects.
 
- [![GitHub A'nyo](https://img.shields.io/github/followers/A'nyo?label=&style=social)](https://github.com/AnyoBell)                           
+## 🛠️ Technologies & Tools
+- **Languages:** JavaScript, Python, C++, (add your favorites!)
+- **Frameworks:** React, Node.js, (add more here!)
+- **Other:** Git, Linux, Docker, (add anything else!)
+
+## 📈 GitHub Stats
+![AnyoBell's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnyoBell&show_icons=true&hide_title=true)
+
+## 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/a%E2%80%99nyo-bell-838a0a255/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnyoBell)
+
+---
+
+Thanks for visiting my profile! 🚀 Feel free to reach out or check out my pinned projects.
+                         
 I am a computer engineering student 
 
 ## Objective
