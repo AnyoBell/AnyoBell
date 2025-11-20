@@ -1,6 +1,7 @@
 # Hello, I am A'nyo Bell
 
-computer engineering @ merritt
+- computer engineering @ uwaterloo
+get in touch:computer engineering @ merritt
 prev: security engineer intern @ bitgo
 interested in: distributed systems, HPC systems (low-latency, high-throughput infrastructure), and scalable agentic architectures
 
