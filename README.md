@@ -1,4 +1,3 @@
-# Hello, I am A'nyo Bell
 - electrical engineering @ merritt
 - prev security intern @ bitgo
 - interested in: distributed systems, embedded development, and scalable agentic architectures
