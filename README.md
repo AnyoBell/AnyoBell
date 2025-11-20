@@ -18,7 +18,7 @@ Welcome to my GitHub profile. I'm passionate about software, hardware, and and d
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/a%E2%80%99nyo-bell-838a0a255/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/A'nyo-Bell)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnyoBell)
 
 ---
