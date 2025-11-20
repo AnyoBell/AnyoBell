@@ -2,7 +2,7 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white-https://www.linkedin.com/in/a%E2%80%99nyo-bell-838a0a255/" /></a>
 
 
- [![GitHub A'nyo](https://img.shields.io/github/followers/A'nyolabel=follow&style=social)](https://github.com/AnyoBell)                           
+ [![GitHub A'nyo](https://img.shields.io/github/followers/A'nyo?label=follow&style=social)](https://github.com/AnyoBell)                           
 I am a computer engineering student 
 
 ## Objective
