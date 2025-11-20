@@ -1,5 +1,7 @@
 # Hello, I'm A'nyo Bell
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white-https://www.linkedin.com/in/a%E2%80%99nyo-bell-838a0a255/" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white-https://www.linkedin.com/in/a%E2%80%99nyo-bell-838a0a255/" 
+ [![GitHub A'nyo](https://img.shields.io/github/followers/A'nyo?label=follow&style=social)](https://github.com/AnyoBell)                            ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+      /></a>
 
 
 I am a computer engineering student 
