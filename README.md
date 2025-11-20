@@ -1,8 +1,13 @@
 # Hello, I'm A'nyo Bell
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white-https://www.linkedin.com/in/a%E2%80%99nyo-bell-838a0a255/-https://img.shields.io/github/followers/A'nyo?label=follow&style=social)](https://github.com/AnyoBell" /></a>
 
+<h2> Hi, I'm A'nyo Bell! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+ href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
- [![GitHub A'nyo](https://img.shields.io/github/followers/A'nyo?label=follow&style=social)](https://github.com/AnyoBell)                           
+
+ [![GitHub A'nyo](https://img.shields.io/github/followers/A'nyo?label=&style=social)](https://github.com/AnyoBell)                           
 I am a computer engineering student 
 
 ## Objective
