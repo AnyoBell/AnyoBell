@@ -1,6 +1,6 @@
-- electrical engineering @ merritt
+- computer Science @ merritt
 - prev security intern @ bitgo
-- interested in: distributed systems, embedded development, and scalable agentic architectures
+- interested in: blockchain, embedded systems, and digital forensics
 - get in touch:
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a%E2%80%99nyo-bell-838a0a255/)
