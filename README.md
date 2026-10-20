@@ -1,5 +1,6 @@
 - computer Science @ merritt
 - prev security intern @ bitgo
+- prev security intern @ zatanna ai
 - interested in: blockchain, embedded systems, and digital forensics
 - get in touch:
     
