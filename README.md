@@ -1,7 +1,7 @@
 - computer Science @ merritt
 - prev security intern @ bitgo
 - prev security intern @ zatanna ai
-- interested in: reverse engineering
+- interested in: Hardware/Embedded Security
 
 get in touch:
     
